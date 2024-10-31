@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\bin\Debug\net6.0\Lambdapractice.exe
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\bin\Debug\net6.0\Lambdapractice.deps.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\bin\Debug\net6.0\Lambdapractice.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\bin\Debug\net6.0\Lambdapractice.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\bin\Debug\net6.0\Lambdapractice.pdb
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\refint\Lambdapractice.dll
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.pdb
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\Lambdapractice.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Documents\SecondProject\Lambdapractice\Lambdapractice\obj\Debug\net6.0\ref\Lambdapractice.dll
